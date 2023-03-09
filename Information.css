@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(2, 2, 16);
+}
+.background_image{
+    position: fixed;
+}
+.whole_body{
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+}
+.topBanner{
+    height: 30%;
+    width: 100%;
+}
+.text1Header{
+    color: rgba(255, 255, 255, 0.955);
+    text-align: center;
+    font-size: 23px;
+}
+.text1{
+    color: rgba(255, 255, 255, 0.768);
+    text-align: center;
+}
+.infoText{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    transform: translate(0, 200%);
+    border-bottom: 2px solid white;
+}

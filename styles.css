@@ -63,18 +63,18 @@ body{
 }
 .text{
     color: white;
-    font-size: 40px;
+    font-size: 39px;
     transform: translate(-70%, -160%);
     display: block;
 }
 .textBottomRight{
-    transform: translate(70%, 1100%);
+    transform: translate(45%, 1100%);
     font-size: 20px;
     color: rgba(255, 255, 255, 0.36);
     display: inline-block;
 }
 .textBottomRight1{
-    transform: translate(-15%, 1200%);
+    transform: translate(-50%, 1200%);
     font-size: 20px;
     color: rgba(255, 255, 255, 0.36);
     display: inline-block;
@@ -87,7 +87,7 @@ body{
 }
 .latestNews{
     color: white;
-    transform: translate(-250%, 150%);
+    transform: translate(-250%, 120%);
     display: inline-block;
 }
 .latestNews:hover{
